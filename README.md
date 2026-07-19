@@ -241,8 +241,4 @@ print(me.motto())
 <p align="center">
   <i>Thanks for visiting my profile! Feel free to explore my projects and connect with me.</i>
 </p>
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/code-by-dharani/code-by-dharani/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
