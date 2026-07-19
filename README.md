@@ -62,7 +62,8 @@ print(me.motto())
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Tools & Platforms**
 
@@ -170,6 +171,21 @@ print(me.motto())
 | MTech Computer Science & Engineering | Sri Ramakrishna Engineering College, Coimbatore | 08/2030 | 8.75 GPA |
 
 </div>
+## 🚀 Current Focus
+
+```text
+📚 Learning:
+├── React.js
+├── Python Advanced
+├── Data Structures & Algorithms
+├── AI & Machine Learning
+└── Cloud Computing Basics
+
+🎯 Currently Building:
+├── Portfolio Projects
+├── AI-based Applications
+└── Open Source Contributions
+```
 ---
 
 ## 🎯 2026 Goals
@@ -224,4 +240,9 @@ print(me.motto())
 
 <p align="center">
   <i>Thanks for visiting my profile! Feel free to explore my projects and connect with me.</i>
+</p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/code-by-dharani/code-by-dharani/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
