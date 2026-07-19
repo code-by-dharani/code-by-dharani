@@ -28,7 +28,7 @@ class Dharanisri:
         self.email       = "dharu9599@gmail.com"
         self.degree      = "MTech Computer Science And Engineering"
         self.college     = "Sri Ramakrishna Engineering College"
-        self.gpa         = 8.75
+        self.gpa         = 8.65
         self.stack       = [
             "HTML", "CSS", "JavaScript", "Python", "C"
         ]
@@ -61,9 +61,8 @@ print(me.motto())
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 
 **Tools & Platforms**
 
@@ -171,15 +170,6 @@ print(me.motto())
 | MTech Computer Science & Engineering | Sri Ramakrishna Engineering College, Coimbatore | 08/2030 | 8.75 GPA |
 
 </div>
-
-```
-🌱 Currently Learning:
-  ├── 🧱 Frontend → React, Next.js, Tailwind CSS
-  ├── 🤖 Artificial Intelligence → ML Models, Data Science
-  ├── ☁️  Cloud Computing → AWS, GCP Basics
-  └── 🐍 Python Advanced → Django, Flask, FastAPI
-```
-
 ---
 
 ## 🎯 2026 Goals
