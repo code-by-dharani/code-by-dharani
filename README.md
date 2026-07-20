@@ -154,7 +154,7 @@ print(me.motto())
 |:---:|:-----------:|:-------:|
 | 🥇 | **Smart India Hackathon (SIH)** | National-level hackathon participant |
 | 💡 | **Youngs Mind Innovation (YMI)** | Innovation competition participant |
-| 🎓 | **Academic Excellence** | Ranked 3rd in class with 8.75 GPA |
+| 🎓 | **Academic Excellence** | Ranked 3rd in class with 8.65 GPA |
 | 🌿 | **NSS Club Member** | Active community service member |
 | 📜 | **C Programming Basics** | Certified by Simplilearn |
 
