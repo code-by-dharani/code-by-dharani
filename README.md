@@ -154,7 +154,7 @@ print(me.motto())
 |:---:|:-----------:|:-------:|
 | 🥇 | **Smart India Hackathon (SIH)** | National-level hackathon participant |
 | 💡 | **Youngs Mind Innovation (YMI)** | Innovation competition participant |
-| 🎓 | **Academic Excellence** | Ranked 3rd in class with 8.65 GPA |
+| 🎓 | **Academic Excellence** | 8.65 GPA |
 | 🌿 | **NSS Club Member** | Active community service member |
 | 📜 | **C Programming Basics** | Certified by Simplilearn |
 
@@ -168,7 +168,7 @@ print(me.motto())
 
 | Degree | Institution | Expected | Score |
 |:------:|:-----------:|:--------:|:-----:|
-| MTech Computer Science & Engineering | Sri Ramakrishna Engineering College, Coimbatore | 08/2030 | 8.75 GPA |
+| MTech Computer Science & Engineering | Sri Ramakrishna Engineering College, Coimbatore | 08/2030 | 8.65 GPA |
 
 </div>
 ## 🚀 Current Focus
