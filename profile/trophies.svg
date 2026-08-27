@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300">
+  <rect width="900" height="300" rx="20" fill="#0d1117"/>
+  <text x="40" y="55" font-family="Arial" font-size="28" font-weight="bold" fill="#70a5fd">🏆 GitHub Highlights</text>
+
+  <rect x="70" y="100" width="150" height="120" rx="15" fill="#161b22"/>
+  <text x="145" y="155" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="white">🚀</text>
+  <text x="145" y="190" text-anchor="middle" font-family="Arial" font-size="15" fill="#8b949e">Projects</text>
+
+  <rect x="270" y="100" width="150" height="120" rx="15" fill="#161b22"/>
+  <text x="345" y="155" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="white">💻</text>
+  <text x="345" y="190" text-anchor="middle" font-family="Arial" font-size="15" fill="#8b949e">Coding</text>
+
+  <rect x="470" y="100" width="150" height="120" rx="15" fill="#161b22"/>
+  <text x="545" y="155" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="white">🤖</text>
+  <text x="545" y="190" text-anchor="middle" font-family="Arial" font-size="15" fill="#8b949e">AI</text>
+
+  <rect x="670" y="100" width="150" height="120" rx="15" fill="#161b22"/>
+  <text x="745" y="155" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="white">🌐</text>
+  <text x="745" y="190" text-anchor="middle" font-family="Arial" font-size="15" fill="#8b949e">Web</text>
+</svg>

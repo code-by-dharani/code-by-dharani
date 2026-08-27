@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300">
+  <rect width="900" height="300" rx="20" fill="#0d1117"/>
+  <text x="40" y="55" font-family="Arial" font-size="28" font-weight="bold" fill="#70a5fd">📊 GitHub Statistics</text>
+  <text x="80" y="130" font-family="Arial" font-size="32" font-weight="bold" fill="white">GitHub Profile</text>
+  <text x="80" y="170" font-family="Arial" font-size="18" fill="#8b949e">code-by-dharani</text>
+  <text x="80" y="225" font-family="Arial" font-size="16" fill="#c9d1d9">M.Tech CSE • Frontend Developer • Python Developer</text>
+</svg>
