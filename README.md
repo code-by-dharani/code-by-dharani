@@ -73,26 +73,27 @@ print(me.motto())
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/code-by-dharani">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-by-dharani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/code-by-dharani">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-by-dharani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=code-by-dharani&show_icons=true&theme=tokyonight" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-by-dharani&layout=compact&theme=tokyonight" width="48%" />
+
 </div>
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=code-by-dharani&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+
+<img src="https://streak-stats.demolab.com/?user=code-by-dharani&theme=tokyonight" width="70%" />
+
 </div>
 
----
 
 ## 📈 Activity Graph
 
